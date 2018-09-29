@@ -1,3 +1,0 @@
-let tarea = function() {
-    
-}
